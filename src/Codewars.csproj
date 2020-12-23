@@ -11,4 +11,9 @@
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.8.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Thinking and Testing\01. A and B\" />
+    <Folder Include="Thinking and Testing\02. Incomplete string\" />
+  </ItemGroup>
+
 </Project>
